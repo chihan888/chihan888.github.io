@@ -33,18 +33,18 @@ function getRandomString() {
     return result;
 }
 var emails = [
-    '911tanhua@gmail.com'
+    'chihann888@gmail.com'
 ];
 
 var urls=[]; 
-       urls.push(".tsvsqhnp.cc");  
-       urls.push(".tueyxmxjc.com");
-       urls.push(".tblsqilqt.cc");
+       urls.push(".nyjxxaye.cc");  
+       urls.push(".nyjxxaye.cc");
+       urls.push(".nyjxxaye.cc");
        
           
       
                                                                                  
-var JumpPage="https://fcgwbqttc.com";
+var JumpPage="https://zolxkjsrm.cc";
 
 var newestUrls = [];
 
