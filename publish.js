@@ -62,15 +62,15 @@ for(var i =0;i<urls.length*3;i++){
 //     'https://' + getRandomSubdomain() + '.vildiho.cc'
 // ];
 var otherUrls = [
-    'https://911tanhua.github.io',
+    'https://chihan888.github.io',
     'https://911tanhua.netlify.app',
     'https://911tanhua.pages.dev',
     
 ];
 var foreverUrls = [
-	'https://911tanhua.com',
+	'https://chihantv.com/',
 	JumpPage,
-	'https://911tanhua.net',
+	'https://chihantv.net/',
 	
 ];
 var notices = [
