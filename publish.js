@@ -63,7 +63,7 @@ for(var i =0;i<urls.length*3;i++){
 // ];
 var otherUrls = [
     'https://chihan888.github.io',
-    'https://911tanhua.netlify.app',
+    'https://chihan888.netlify.app/',
     'https://911tanhua.pages.dev',
     
 ];
@@ -146,7 +146,7 @@ window.onload = function () {
     var newFavoritesElem =  createFieldElem({title: '<font color=red><b>Ctrl+D</b></font> 收藏此页，永不迷路', items: ""});
     mainElem.appendChild(newFavoritesElem);
     // newest urls
-    var newestFieldElem = createFieldElem({title: '最新地址', items: newestUrls, text: '请使用https://协议访问91探花'});
+    var newestFieldElem = createFieldElem({title: '最新地址', items: newestUrls, text: '请使用https://协议访问痴汉俱乐部'});
     mainElem.appendChild(newestFieldElem);
 
     // other urls
