@@ -64,7 +64,7 @@ for(var i =0;i<urls.length*3;i++){
 var otherUrls = [
     'https://chihan888.github.io',
     'https://chihan888.netlify.app/',
-    'https://911tanhua.pages.dev',
+    'https://chihan888.pages.dev/',
     
 ];
 var foreverUrls = [
