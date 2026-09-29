@@ -65,7 +65,7 @@ var otherUrls = [
     'https://chihan888.github.io',
     'https://chihan888.netlify.app/',
     'https://chihan888.pages.dev/',
-    
+    'https://gitlab.com/chihan888'
 ];
 var foreverUrls = [
 	'https://chihantv.com/',
