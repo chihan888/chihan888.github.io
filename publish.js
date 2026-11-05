@@ -44,7 +44,7 @@ var urls=[];
           
       
                                                                                  
-var JumpPage="https://aubkwhuyx.cc";
+var JumpPage="https://bmdlmoogs.cc";
 
 var newestUrls = [];
 
